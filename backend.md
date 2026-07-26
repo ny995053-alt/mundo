@@ -1,8 +1,8 @@
 # Mundo Backend Implementation Contract
 
-**Document status:** implementation handoff  
-**Contract version:** 1.0  
-**Frontend baseline:** the current Next.js application in this repository  
+**Document status:** implementation handoff
+**Contract version:** 1.0
+**Frontend baseline:** the current Next.js application in this repository
 **Companion document:** [`database.md`](./database.md)
 
 This document defines the backend behavior required by the Mundo Museum visitor-intelligence frontend. It is intentionally specific: field names, units, status values, date behavior, permissions, polling, report generation, and failure behavior are part of the contract.
